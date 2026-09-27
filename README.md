@@ -1,6 +1,7 @@
 # econ1626-labour-policy-proposal
 # Policy Proposal - Assignment 2
 ## ECON1626 by Chris 
+### Student: Tu Anh Lam - S4025639
 
 ## Project Overview
 
