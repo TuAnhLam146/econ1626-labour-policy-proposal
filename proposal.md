@@ -1,3 +1,15 @@
+## Table of Contents
+
+- [1. Problem Definition and Policy Context](#1-problem-definition-and-policy-context)
+- [2. Analysis of Impacts](#2-analysis-of-impacts)
+  - [2.1 Tasks, Employment and Productivity](#21-tasks-employment-and-productivity)
+  - [2.2 Wages and Distribution](#22-wages-and-distribution)
+  - [2.3 Industry Structure and Uneven Firm Adjustment](#23-industry-structure-and-uneven-firm-adjustment)
+- [3. Policy Options and Evaluation](#3-policy-options-and-evaluation)
+- [4. Recommended Package and Implementation Plan](#4-recommended-package-and-implementation-plan)
+- [5. Risks and Mitigations](#5-risks-and-mitigations)
+- [References](#references)
+
 # 1. Problem Definition and Policy Context
 
 Generative AI changes labour demand by altering tasks within jobs. It may automate some tasks while augmenting others, and JSA finds that augmentation currently outweighs automation, with automation potential concentrated in routine roles (JSA 2025). DEWR’s July 2026 report finds no broad AI-driven labour-market upheaval, although occupations with greater automation exposure have experienced slower employment growth. DEWR cautions that this evidence is suggestive and does not establish large-scale AI-driven job loss (DEWR 2026).
@@ -22,6 +34,7 @@ The three options address adjustment frictions, uneven AI adoption and underinve
 **Option 2:** SME AI and Workforce Co-investment. This option would provide matched grants to SMEs that adopt AI while also investing in employee training and job redesign. It targets smaller firms facing financial, skills and organisational constraints (DISR 2025). A two-year pilot supporting around 3,000 firms with an average Commonwealth contribution of $15,000 would cost about $50 million, including administration and evaluation.
 
 **Option 3:** AI Early Transition Service. This option would use JSA and DEWR indicators to identify occupations where high AI exposure coincides with weakening employment or vacancy trends. Affected workers would receive skills assessment, career guidance and job matching (DEWR n.d). A two-year pilot supporting around 20,000 workers would cost approximately $20–25 million, including data and evaluation costs.
+
 **Table 1:** _Comparison of 3 Policy Options_
 
 | Criterion | Option 1: Targeted AI Transition Training | Option 2: SME AI and Workforce Co-investment | Option 3: AI Early Transition Service |
