@@ -1,3 +1,11 @@
+**Policy client and context:** This brief advises the Australian Department of Employment and Workplace Relations (DEWR) on its labour-market response following the 2026 AI and Employment in Australia monitoring report, contributing to the implementation of the National AI Plan’s “Spread the benefits” workforce and Small and Medium Enterprise (SME) adoption agenda (DEWR 2026).
+
+# Managing Australia’s Uneven AI Labour-Market Transition
+
+# Executive Summary
+
+Generative AI presents Australia with a labour-market adjustment challenge rather than evidence of widespread technological unemployment. The DEWR finds no broad AI-driven labour-market upheaval, although employment growth has been slower in occupations with greater automation exposure. At the same time, SME AI adoption remains uneven across firms, while weak productivity growth increases the importance of capturing potential productivity gains. This brief evaluates three responses: targeted worker training, Small-and-Medium Enterprise (SME) AI and workforce co-investment, and early transition assistance. It recommends a two-year, $50 million SME AI and Workforce Co-investment pilot supporting approximately 3,000 firms through 50:50 matched grants. Linking AI adoption to employee training and job redesign would address firm capability constraints while strengthening workers’ complementary skills. Implementation should be evaluated against productivity, skill use, employee retention, and additionality before any national expansion.
+
 ## Table of Contents
 
 - [1. Problem Definition and Policy Context](#1-problem-definition-and-policy-context)
@@ -57,3 +65,5 @@ The recommended package is Option 2: SME AI and Workforce Co-investment because 
 # 5. Risks and Mitigations 
 
 The proposed program faces three main implementation risks that should be addressed through its design and evaluation. The first risk is deadweight spending. Some SMEs may receive grants for AI investments they would have undertaken without government support, reducing value for money. This risk should be limited through 50:50 co-funding, additionality tests, and evidence that the grant changes the timing, scale, or workforce component of the investment. Firms unable to demonstrate additional activity should not receive funding. The second risk is poor training quality or weak relevance to workplace needs. Training that is too generic may increase completion rates without improving worker capability or productivity. Eligible training should therefore be linked directly to the firm’s AI adoption and job-redesign plan. Providers should also demonstrate practical workplace application, with evaluation focusing on skill use and productivity outcomes rather than training completion alone. The third risk is unequal access to the program. Better-resourced SMEs may be more capable of preparing competitive applications, while smaller or regional firms could be underrepresented (DISR 2025). DEWR should use simplified application requirements, targeted outreach, and application support to reduce this bias. Participation and outcomes should also be monitored by firm size and region so access problems can be identified during the pilot.
+
+# Reference
